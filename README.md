@@ -253,11 +253,7 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
 
-<!-- Contact-->
 
-<a href="https://discord.gg/fpUtBrbKU5" target="blank">
-<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-</a>
 
     
   </div>
