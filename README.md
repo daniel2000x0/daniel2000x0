@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@daniel2000x0](github.com/daniel2000x0)
+- 👨‍💻 All of my projects are available [@daniel2000x0](https://github.com/daniel2000x0)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
