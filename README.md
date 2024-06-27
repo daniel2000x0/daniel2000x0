@@ -132,7 +132,7 @@
   </a> 
 
    <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue"
+    <img src="https://shields.io/badge/MySQL-47A248.svg?style=for-the-badge&logo=MySQL&logoColor=white"
       alt="mysql"/> 
   </a> 
 </p>
