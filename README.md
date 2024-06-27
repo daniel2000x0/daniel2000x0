@@ -130,6 +130,11 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+
+   <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue"
+      alt="mysql"/> 
+  </a> 
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
