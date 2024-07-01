@@ -210,7 +210,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://linkedin.com/in/neko-ark-8a67242ab" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
