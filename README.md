@@ -168,7 +168,7 @@
   <a href="https://github.com/daniel2000x0" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+  <a href="https://gitlab.com/nekoark20" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
