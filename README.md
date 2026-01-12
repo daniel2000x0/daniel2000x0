@@ -71,11 +71,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=daniel2000x0&show_icons=true&theme=gotham"
+        src="https://gh-stats-alpha.vercel.app/api?username=daniel2000x0&show_icons=true&theme=gotham"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2000x0&layout=compact&theme=gotham"
+    src="https://gh-stats-alpha.vercel.app/api/top-langs/?username=daniel2000x0&layout=compact&theme=gotham"
     width="48%"
   />
 </p>
