@@ -3,22 +3,22 @@
 </h1>
 
 <p align="center">
-  <b>Backend Developer · Java & Spring · Ecuador 🇪🇨</b>
+  <b>Backend Developer · Java | Spring Boot | Node.js · Ecuador 🇪🇨</b>
 </p>
 
 <p align="center">
-  Passionate about backend architecture, system design and clean code.
+  Passionate about backend architecture, scalable systems, and clean code.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Backend Architecture & System Design**
-- 👯 Looking to collaborate on **Spring / Java Backend projects**
-- 🤝 Interested in improving **scalable backend design**
-- 💬 Ask me about **Backend, System Design & Philosophy**
-- ⚡ Fun fact: *Coding is a passion, not just a profession*
+- 🌱 Currently learning **System Design, Distributed Systems & Backend Scalability**
+- 👯 Open to collaborate on **Spring Boot / NestJS backend projects**
+- 🤝 Focused on **clean architecture (Hexagonal / Layered / DDD basics)**
+- 💬 Ask me about **APIs, databases, backend design, and software architecture**
+- ⚡ Fun fact: *I enjoy turning complex systems into simple designs*
 
 📌 **GitHub:** [@daniel2000x0](https://github.com/daniel2000x0)
 
@@ -29,27 +29,34 @@
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
+
+---
 
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring IoC-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 </p>
+
+---
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
+
+---
 
 ### ☁️ Cloud & DevOps
 <p>
@@ -59,23 +66,27 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-### 🧪 Testing
-<p>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-</p>
+---
+
+## 🧪 Testing & Quality
+
+- 🧪 **JUnit 5** – Unit testing in Spring Boot  
+- 🔍 **Mockito** – Mocking dependencies for isolation tests  
+- 🧩 **Spring Boot Test** – Integration testing  
+- 🐘 **Testcontainers** – Real database testing (PostgreSQL, MySQL)  
+- 🌐 **Selenium** – End-to-end testing  
+- ⚡ **Jest (Node.js / NestJS)** – Backend testing in TypeScript
 
 ---
 
 ## 🧠 Backend Focus
 
-- 🏗️ **Architecture:** Layered Architecture, Hexagonal (Ports & Adapters)
-- 🔐 **Security:** JWT, Role-based access, Spring Security
-- ⚙️ **APIs:** RESTful APIs, DTOs, Validation
-- 🧵 **Concurrency:** Threading basics, async processing
-- 📦 **Persistence:** JPA / Hibernate, query optimization
-- 🧪 **Testing:** Unit & integration testing
-- 🚀 **Best Practices:** Clean Code, SOLID, separation of concerns
+- 🏗️ **Architecture:** Layered Architecture · Hexagonal Architecture · Clean Code
+- 🔐 **Security:** JWT · Spring Security · Role-based access control
+- ⚙️ **APIs:** RESTful APIs · DTO pattern · Validation layer
+- 🧵 **Concurrency:** Async processing · thread basics
+- 📦 **Persistence:** JPA / Hibernate · TypeORM optimization
+- 🚀 **Best Practices:** SOLID · DRY · Separation of concerns
 
 ---
 
