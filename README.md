@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Daniel Vanegas</h1>
 
 <p align="center">
-  <b>Backend Engineer · Java | Spring Boot | Node.js | NestJS · Ecuador 🇪🇨</b>
+  <b>Full Stack Developer · Java | Angular | Spring Boot | React · Ecuador 🇪🇨</b>
 </p>
 
 <p align="center">
-  Designing scalable backend systems, clean architectures, and robust APIs.
+  Building end-to-end solutions, from responsive frontends to scalable backend systems.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Focused on **Backend Architecture & Distributed Systems**
+- 🔭 Focused on **Full Stack Development & Distributed Systems**
 - 🧱 Strong interest in **Clean Architecture, DDD & Microservices**
 - ⚙️ Experience building **RESTful APIs with Spring Boot & NestJS**
+- 🎨 Frontend development with **Angular, React, PrimeNG & Bootstrap**
 - 🗄️ Passionate about **database design & optimization (PostgreSQL / MySQL)**
+- 📱 Mobile development with **Android Studio**
 - 🚀 Love working on **scalable, maintainable systems**
 - 💬 Ask me about **backend design, APIs, system design, or Java/Spring**
 
@@ -30,7 +32,18 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=flat&logo=primeng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
@@ -56,8 +69,10 @@
 
 ---
 
-### ☁️ DevOps & Cloud
+### 🛠️ Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
@@ -86,6 +101,7 @@
 - ⚙️ REST API design best practices
 - 📉 Database normalization & query optimization
 - 🧼 Clean Code + SOLID principles
+- ☁️ Cloud services integration
 
 ---
 
@@ -131,7 +147,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abel-ordonez-8b7661350">
+  <a href="https://www.linkedin.com/in/daniel-vanegas-8b7661350">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nekoark20@gmail.com">
@@ -143,7 +159,7 @@
 
 ## 💡 Philosophy
 
-> “A backend system is not just code — it's a design of reliability, scalability, and trust.”
+> "A backend system is not just code — it's a design of reliability, scalability, and trust."
 
 ---
 
